@@ -51,7 +51,7 @@ public class GrilleMaster {
                         System.out.print("V ");
                 }
                 if (lireCouleurDuPion(i,j)== "magenta"){
-                        System.out.print("Vi ");
+                        System.out.print("Ma ");
                 }
                 if (lireCouleurDuPion(i,j)== "jaune"){
                         System.out.print("J ");

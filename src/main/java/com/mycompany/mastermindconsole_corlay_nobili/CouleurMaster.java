@@ -10,7 +10,7 @@ package com.mycompany.mastermindconsole_corlay_nobili;
  */
 public class CouleurMaster {
     String Couleur ;
-    String [] Tableaucouleur = {"jaune","rouge","vert","bleu","rose","blanc","orange","noir", "magenta"};
+    String [] Tableaucouleur = {"jaune","rouge","vert","bleu","rose","blanc","orange", "magenta"};
     
     public CouleurMaster(int couleur){
         Couleur = Tableaucouleur[couleur] ;
